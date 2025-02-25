@@ -2,7 +2,7 @@
 # 🚀 Proyecto de Ingeniería de Datos en Azure + Clustering  
 
 Este proyecto es una solución de canalización de ingeniería de datos para un problema empresarial inventado, creado para ayudarme en mi aprendizaje en la comprensión de la canalización de datos y segmentación de clientes.  
-
+![image alt](https://github.com/frankcc1/Project-DataAnalytics-DataEnginnier-DataScience/blob/d6d1628f5109a98b8a07e4af9928e8f430ede01d/Databricks/image.png)
 ![image alt](https://github.com/frankcc1/Project-DataAnalytics-DataEnginnier-DataScience/blob/b0fff8bced6d17f41c7f2a99861fda100be9becc/Databricks/image.png)
 ![image alt](https://github.com/frankcc1/Project-DataAnalytics-DataEnginnier-DataScience/blob/8d917dde94ea2d057254f4dcad9dcf34f94ed846/Databricks/image.png)
 
