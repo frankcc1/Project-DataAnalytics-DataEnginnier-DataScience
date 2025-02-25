@@ -3,6 +3,8 @@
 
 Este proyecto es una solución de canalización de ingeniería de datos para un problema empresarial inventado, creado para ayudarme en mi aprendizaje en la comprensión de la canalización de datos y segmentación de clientes.  
 
+![image alt](https://github.com/frankcc1/Project-DataAnalytics-DataEnginnier-DataScience/blob/b0fff8bced6d17f41c7f2a99861fda100be9becc/Databricks/image.png)
+
 ## 📌 **Descripción general del proyecto**  
 Este proyecto aborda una necesidad empresarial crítica mediante la creación de una canalización de datos integral en Azure. El objetivo es extraer datos de clientes, ventas, productos y sucursales de una base de datos SQL local, transformarlos en la nube y aplicar técnicas de Machine Learning en la agrupación de clientes para generar información procesable a través de un panel de Power BI.  
 
